@@ -104,7 +104,7 @@ ai-job-assistant-pro/
 ├── public/
 ├── package.json
 └── README.md
-
+```
 ## Team Members
 1. Abisha K M
 2. Harshini S
