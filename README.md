@@ -5,7 +5,7 @@
 Built with a **stunning dark glassmorphism UI**, smooth animations, and **Gemini-powered Edge Functions**, the app delivers real-time feedback at every step of the job application process.
 
 🌐 **Live App**: https://gemini-hire.vercel.app/
-📦 **Repository**: https://github.com/Abishakm1507/ai-job-assistant-pro
+📦 **Repository**: https://github.com/Abishakm1507/GeminiHire
 
 ---
 
