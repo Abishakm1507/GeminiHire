@@ -1,4 +1,4 @@
-# 🚀 GeminiHire – AI Job Assistant Pro
+# 🚀 GeminiHire – AI Job Assistant 
 
 **GeminiHire** is a modern, AI-powered job application assistant that helps candidates analyze resumes, identify skill gaps, generate high-quality cover letters, and prepare for interviews — all through a guided, visually rich workflow.
 
