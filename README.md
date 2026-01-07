@@ -105,7 +105,7 @@ ai-job-assistant-pro/
 └── README.md
 ```
 ## Team Members
-1. Abisha K M
-2. Harshini S
+1. Abisha K M - https://github.com/Abishakm1507/
+2. Harshini S - https://github.com/230611-harshini
 3. Kavya S - https://github.com/kavs06/GeminiHire/
 4. Kaviya Priya S - https://github.com/Kaviyapriyasiva/
