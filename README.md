@@ -107,5 +107,5 @@ ai-job-assistant-pro/
 ## Team Members
 1. Abisha K M
 2. Harshini S
-3. Kavya S
+3. Kavya S - https://github.com/kavs06/GeminiHire/
 4. Kaviya Priya S - https://github.com/Kaviyapriyasiva/
